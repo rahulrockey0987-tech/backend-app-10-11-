@@ -1,0 +1,6 @@
+{
+  "name": "HomeHelp Admin Web",
+  "description": "On-demand home services admin management portal with live radar, bookings, partner operations, and voice hiring management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
